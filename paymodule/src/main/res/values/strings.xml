@@ -1,0 +1,4 @@
+<resources>
+    <string name="paymodule_app_name">PayModule</string>
+    <string name="paymodule_hello">支付模块界面</string>
+</resources>

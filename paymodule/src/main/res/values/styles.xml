@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="paymodule_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/paymodule_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/paymodule_colorPrimaryDark</item>
+        <item name="colorAccent">@color/paymodule_colorAccent</item>
+    </style>
+</resources>

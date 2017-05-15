@@ -1,0 +1,4 @@
+<resources>
+    <string name="loginmodule_app_name">LoginModule</string>
+    <string name="loginmodule_hello">登录模块界面</string>
+</resources>

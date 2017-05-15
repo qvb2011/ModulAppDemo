@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paymodule_colorPrimary">#3F51B5</color>
+    <color name="paymodule_colorPrimaryDark">#303F9F</color>
+    <color name="paymodule_colorAccent">#FF4081</color>
+    <color name="paymodule_white">#EEEEEE</color>
+</resources>

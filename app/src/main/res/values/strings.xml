@@ -1,0 +1,7 @@
+<resources>
+    <string name="jjapp_name">ModulAppDemo</string>
+    <string name="jump_scheme">ModulAppDemo</string>
+    <string name="app_hello">ModulApp工程界面</string>
+    <string name="app_to_pay">支付</string>
+    <string name="app_to_login">登录</string>
+</resources>
